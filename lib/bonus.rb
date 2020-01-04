@@ -24,7 +24,7 @@ def bonus
 
 bonus[:montague][:hero][:status] = "dead"
 bonus[:capulet][:heroine][:status] = "dead"
-p "Rip "
+p "Rip 🙏🏾"
 
 end 
 
