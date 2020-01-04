@@ -21,12 +21,10 @@ def bonus
       ]
   }
 }
-
-epic_tragedy[:montague][:hero][:status] = "dead"
-epic_tragedy[:capulet][:heroine][:status] = "dead"
-p "Rip 🙏🏾"
-
-epic_tragedy
 end 
 
+bonus[:montague][:hero][:status] = "dead"
+bonus[:capulet][:heroine][:status] = "dead"
+p "Rip 🙏🏾"
 
+bonus
