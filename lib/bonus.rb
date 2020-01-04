@@ -1,5 +1,3 @@
-require 'pry'
-
 def bonus
    epic_tragedy = {
   :montague => {
@@ -28,4 +26,3 @@ end
 bonus[:montague][:hero][:status] = "dead"
 bonus[:capulet][:heroine][:status] = "dead"
 p "Rip 🙏🏾"
-binding.pry
